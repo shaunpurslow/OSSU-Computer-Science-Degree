@@ -61,7 +61,7 @@ An entry-level course taught by David J. Malan, CS50x teaches students how to th
 
 Courses | Status | Repo | Final Project
 :-- | :--: | :--: | :--:
-[CS50's Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Not Started | n/a | n/a
+[CS50's Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) | In Progress | n/a | n/a
 
 ### Introduction to Computer Science
 
